@@ -51,6 +51,8 @@ dependencies {
 
     //Displaying Images and Lists
     implementation 'com.squareup.picasso:picasso:2.71828'
+
+    // Cardview dependency
     implementation 'androidx.cardview:cardview:1.0.0'
 
     // Coroutine Lifecycle Scopes
